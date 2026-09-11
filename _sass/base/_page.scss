@@ -69,3 +69,12 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+body, section, header, .bg-light, .bg-white, .page-section, .portfolio-box {
+  background-color: #121212 !important;
+  color: #f8f9fa !important;
+}
+
+h1, h2, h3, h4, h5, h6, p, span {
+  color: #f8f9fa !important;
+}
